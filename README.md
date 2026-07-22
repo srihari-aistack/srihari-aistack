@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Srihari 👋
 
-<!--
-**srihari-aistack/srihari-aistack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Full Stack Developer & AI Engineer 🚀
 
-Here are some ideas to get you started:
+I am currently learning software development and building my skills in web development, programming, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- HTML, CSS, JavaScript
+- React.js
+- Node.js
+- Python
+- Machine Learning basics
+- AI Engineering concepts
+
+## 🛠️ Skills
+
+Programming:
+- Python
+- JavaScript (Learning)
+
+Frontend:
+- HTML
+- CSS
+- React (Learning)
+
+Backend:
+- Node.js (Learning)
+
+AI:
+- Python for AI
+- Machine Learning basics
+
+## 📌 Goals
+
+- Become a Full Stack Developer
+- Build AI-powered applications
+- Contribute to open source projects
+
+## 📂 Projects
+
+Coming soon...
+
